@@ -3,7 +3,6 @@
 function main()
 {
 
-    
        //Get h1
         const heading =  document.querySelector("h1");
         
@@ -29,6 +28,16 @@ function main()
         buttons[3].addEventListener("click",function(){
 
             heading.innerText ="DOM Bacchanal";
+
+        })
+
+        buttons[4].addEventListener("click",function(){
+
+            
+        })
+
+        buttons[5].addEventListener("click",function(){
+
 
         })
     
